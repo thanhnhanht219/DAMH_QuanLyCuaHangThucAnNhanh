@@ -1,0 +1,34 @@
+E:\Project\FastFoodManager\BLL_DAL\bin\Debug\BLL_DAL.dll
+E:\Project\FastFoodManager\BLL_DAL\bin\Debug\BLL_DAL.pdb
+E:\Project\FastFoodManager\BLL_DAL\obj\Debug\BLL_DAL.csproj.CoreCompileInputs.cache
+E:\Project\FastFoodManager\BLL_DAL\obj\Debug\BLL_DAL.dll
+E:\Project\FastFoodManager\BLL_DAL\obj\Debug\BLL_DAL.pdb
+E:\Project\FastFoodManager\BLL_DAL\bin\Debug\BLL_DAL.dll.config
+E:\Project\CuaHangThucAnNhanh\BLL_DAL\bin\Debug\BLL_DAL.dll.config
+E:\Project\CuaHangThucAnNhanh\BLL_DAL\bin\Debug\BLL_DAL.dll
+E:\Project\CuaHangThucAnNhanh\BLL_DAL\bin\Debug\BLL_DAL.pdb
+E:\Project\CuaHangThucAnNhanh\BLL_DAL\obj\Debug\BLL_DAL.csproj.CoreCompileInputs.cache
+E:\Project\CuaHangThucAnNhanh\BLL_DAL\obj\Debug\BLL_DAL.dll
+E:\Project\CuaHangThucAnNhanh\BLL_DAL\obj\Debug\BLL_DAL.pdb
+E:\Project\CuaHangThucAnNhanh\BLL_DAL\obj\Debug\BLL_DAL.csprojAssemblyReference.cache
+D:\Nhan\CuaHangThucAnNhanh\BLL_DAL\bin\Debug\BLL_DAL.dll.config
+D:\Nhan\CuaHangThucAnNhanh\BLL_DAL\bin\Debug\BLL_DAL.dll
+D:\Nhan\CuaHangThucAnNhanh\BLL_DAL\bin\Debug\BLL_DAL.pdb
+D:\Nhan\CuaHangThucAnNhanh\BLL_DAL\obj\Debug\BLL_DAL.dll
+D:\Nhan\CuaHangThucAnNhanh\BLL_DAL\obj\Debug\BLL_DAL.pdb
+E:\New folder (5)\Nhan\CuaHangThucAnNhanh\BLL_DAL\bin\Debug\BLL_DAL.dll.config
+E:\New folder (5)\Nhan\CuaHangThucAnNhanh\BLL_DAL\bin\Debug\BLL_DAL.dll
+E:\New folder (5)\Nhan\CuaHangThucAnNhanh\BLL_DAL\bin\Debug\BLL_DAL.pdb
+E:\New folder (5)\Nhan\CuaHangThucAnNhanh\BLL_DAL\obj\Debug\BLL_DAL.dll
+E:\New folder (5)\Nhan\CuaHangThucAnNhanh\BLL_DAL\obj\Debug\BLL_DAL.pdb
+E:\New folder (5)\Nhan\CuaHangThucAnNhanh\BLL_DAL\obj\Debug\BLL_DAL.csprojResolveAssemblyReference.cache
+D:\MinhTriet\__HK2_2020\DoAn_CNPM_KD\CuaHangThucAnNhanh\BLL_DAL\bin\Debug\BLL_DAL.dll.config
+D:\MinhTriet\__HK2_2020\DoAn_CNPM_KD\CuaHangThucAnNhanh\BLL_DAL\bin\Debug\BLL_DAL.dll
+D:\MinhTriet\__HK2_2020\DoAn_CNPM_KD\CuaHangThucAnNhanh\BLL_DAL\bin\Debug\BLL_DAL.pdb
+D:\MinhTriet\__HK2_2020\DoAn_CNPM_KD\CuaHangThucAnNhanh\BLL_DAL\obj\Debug\BLL_DAL.dll
+D:\MinhTriet\__HK2_2020\DoAn_CNPM_KD\CuaHangThucAnNhanh\BLL_DAL\obj\Debug\BLL_DAL.pdb
+E:\DoAn\PTPM\882020\CuaHangThucAnNhanh\BLL_DAL\bin\Debug\BLL_DAL.dll.config
+E:\DoAn\PTPM\882020\CuaHangThucAnNhanh\BLL_DAL\bin\Debug\BLL_DAL.dll
+E:\DoAn\PTPM\882020\CuaHangThucAnNhanh\BLL_DAL\bin\Debug\BLL_DAL.pdb
+E:\DoAn\PTPM\882020\CuaHangThucAnNhanh\BLL_DAL\obj\Debug\BLL_DAL.dll
+E:\DoAn\PTPM\882020\CuaHangThucAnNhanh\BLL_DAL\obj\Debug\BLL_DAL.pdb

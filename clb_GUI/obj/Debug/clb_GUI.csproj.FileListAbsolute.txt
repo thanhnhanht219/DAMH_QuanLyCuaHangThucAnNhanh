@@ -1,0 +1,105 @@
+E:\Project\FastFoodManager\clb_GUI\bin\Debug\clb_GUI.dll
+E:\Project\FastFoodManager\clb_GUI\bin\Debug\clb_GUI.pdb
+E:\Project\FastFoodManager\clb_GUI\bin\Debug\BLL_DAL.dll
+E:\Project\FastFoodManager\clb_GUI\bin\Debug\BLL_DAL.pdb
+E:\Project\FastFoodManager\clb_GUI\bin\Debug\BLL_DAL.dll.config
+E:\Project\FastFoodManager\clb_GUI\obj\Debug\clb_GUI.Properties.Resources.resources
+E:\Project\FastFoodManager\clb_GUI\obj\Debug\clb_GUI.usThemKhachHang.resources
+E:\Project\FastFoodManager\clb_GUI\obj\Debug\clb_GUI.csproj.GenerateResource.cache
+E:\Project\FastFoodManager\clb_GUI\obj\Debug\clb_GUI.csproj.CoreCompileInputs.cache
+E:\Project\FastFoodManager\clb_GUI\obj\Debug\clb_GUI.csproj.CopyComplete
+E:\Project\FastFoodManager\clb_GUI\obj\Debug\clb_GUI.dll
+E:\Project\FastFoodManager\clb_GUI\obj\Debug\clb_GUI.pdb
+E:\Project\FastFoodManager\clb_GUI\bin\Debug\Guna.UI.dll
+E:\Project\FastFoodManager\clb_GUI\obj\Debug\clb_GUI.csprojAssemblyReference.cache
+E:\Project\CuaHangThucAnNhanh\clb_GUI\bin\Debug\clb_GUI.dll
+E:\Project\CuaHangThucAnNhanh\clb_GUI\bin\Debug\clb_GUI.pdb
+E:\Project\CuaHangThucAnNhanh\clb_GUI\bin\Debug\BLL_DAL.dll
+E:\Project\CuaHangThucAnNhanh\clb_GUI\bin\Debug\Guna.UI.dll
+E:\Project\CuaHangThucAnNhanh\clb_GUI\bin\Debug\BLL_DAL.pdb
+E:\Project\CuaHangThucAnNhanh\clb_GUI\bin\Debug\BLL_DAL.dll.config
+E:\Project\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.Properties.Resources.resources
+E:\Project\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.usChiTietHD.resources
+E:\Project\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.usSanPham.resources
+E:\Project\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.csproj.GenerateResource.cache
+E:\Project\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.csproj.CoreCompileInputs.cache
+E:\Project\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.csproj.CopyComplete
+E:\Project\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.dll
+E:\Project\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.pdb
+E:\Project\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.usSanPham_1.resources
+E:\Project\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.usThemKhachHang.resources
+E:\Project\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.csprojAssemblyReference.cache
+D:\Nhan\CuaHangThucAnNhanh\clb_GUI\bin\Debug\clb_GUI.dll
+D:\Nhan\CuaHangThucAnNhanh\clb_GUI\bin\Debug\clb_GUI.pdb
+D:\Nhan\CuaHangThucAnNhanh\clb_GUI\bin\Debug\BLL_DAL.dll
+D:\Nhan\CuaHangThucAnNhanh\clb_GUI\bin\Debug\BLL_DAL.pdb
+D:\Nhan\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.csprojResolveAssemblyReference.cache
+D:\Nhan\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.Properties.Resources.resources
+D:\Nhan\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.usChiTietHD.resources
+D:\Nhan\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.usSanPham.resources
+D:\Nhan\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.usSanPham_1.resources
+D:\Nhan\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.usThemKhachHang.resources
+D:\Nhan\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.csproj.GenerateResource.Cache
+D:\Nhan\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.dll
+D:\Nhan\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.pdb
+D:\Nhan\CuaHangThucAnNhanh\clb_GUI\obj\Debug\GUI.frmSanPham.resources
+E:\New folder (5)\Nhan\CuaHangThucAnNhanh\clb_GUI\bin\Debug\clb_GUI.dll
+E:\New folder (5)\Nhan\CuaHangThucAnNhanh\clb_GUI\bin\Debug\clb_GUI.pdb
+E:\New folder (5)\Nhan\CuaHangThucAnNhanh\clb_GUI\bin\Debug\BLL_DAL.dll
+E:\New folder (5)\Nhan\CuaHangThucAnNhanh\clb_GUI\bin\Debug\BLL_DAL.pdb
+E:\New folder (5)\Nhan\CuaHangThucAnNhanh\clb_GUI\obj\Debug\GUI.frmSanPham.resources
+E:\New folder (5)\Nhan\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.Properties.Resources.resources
+E:\New folder (5)\Nhan\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.usChiTietHD.resources
+E:\New folder (5)\Nhan\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.usSanPham.resources
+E:\New folder (5)\Nhan\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.usSanPham_1.resources
+E:\New folder (5)\Nhan\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.usThemKhachHang.resources
+E:\New folder (5)\Nhan\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.csproj.GenerateResource.Cache
+E:\New folder (5)\Nhan\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.dll
+E:\New folder (5)\Nhan\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.pdb
+E:\New folder (5)\Nhan\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.csprojResolveAssemblyReference.cache
+D:\MinhTriet\__HK2_2020\DoAn_CNPM_KD\CuaHangThucAnNhanh\clb_GUI\bin\Debug\clb_GUI.dll
+D:\MinhTriet\__HK2_2020\DoAn_CNPM_KD\CuaHangThucAnNhanh\clb_GUI\bin\Debug\clb_GUI.pdb
+D:\MinhTriet\__HK2_2020\DoAn_CNPM_KD\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.csprojResolveAssemblyReference.cache
+D:\MinhTriet\__HK2_2020\DoAn_CNPM_KD\CuaHangThucAnNhanh\clb_GUI\obj\Debug\GUI.frmSanPham.resources
+D:\MinhTriet\__HK2_2020\DoAn_CNPM_KD\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.Properties.Resources.resources
+D:\MinhTriet\__HK2_2020\DoAn_CNPM_KD\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.usChiTietHD.resources
+D:\MinhTriet\__HK2_2020\DoAn_CNPM_KD\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.usSanPham.resources
+D:\MinhTriet\__HK2_2020\DoAn_CNPM_KD\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.usSanPham_1.resources
+D:\MinhTriet\__HK2_2020\DoAn_CNPM_KD\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.usThemKhachHang.resources
+D:\MinhTriet\__HK2_2020\DoAn_CNPM_KD\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.csproj.GenerateResource.Cache
+D:\MinhTriet\__HK2_2020\DoAn_CNPM_KD\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.dll
+D:\MinhTriet\__HK2_2020\DoAn_CNPM_KD\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.pdb
+D:\MinhTriet\__HK2_2020\DoAn_CNPM_KD\CuaHangThucAnNhanh\clb_GUI\bin\Debug\BLL_DAL.dll
+D:\MinhTriet\__HK2_2020\DoAn_CNPM_KD\CuaHangThucAnNhanh\clb_GUI\bin\Debug\BLL_DAL.pdb
+E:\DoAn\PTPM\882020\CuaHangThucAnNhanh\clb_GUI\bin\Debug\clb_GUI.dll
+E:\DoAn\PTPM\882020\CuaHangThucAnNhanh\clb_GUI\bin\Debug\clb_GUI.pdb
+E:\DoAn\PTPM\882020\CuaHangThucAnNhanh\clb_GUI\bin\Debug\BLL_DAL.pdb
+E:\DoAn\PTPM\882020\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.csprojResolveAssemblyReference.cache
+E:\DoAn\PTPM\882020\CuaHangThucAnNhanh\clb_GUI\obj\Debug\GUI.frmSanPham.resources
+E:\DoAn\PTPM\882020\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.Properties.Resources.resources
+E:\DoAn\PTPM\882020\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.usChiTietHD.resources
+E:\DoAn\PTPM\882020\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.usSanPham.resources
+E:\DoAn\PTPM\882020\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.usSanPham_1.resources
+E:\DoAn\PTPM\882020\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.usThemKhachHang.resources
+E:\DoAn\PTPM\882020\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.csproj.GenerateResource.Cache
+E:\DoAn\PTPM\882020\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.dll
+E:\DoAn\PTPM\882020\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.pdb
+E:\DoAn\PTPM\882020\CuaHangThucAnNhanh\clb_GUI\bin\Debug\BLL_DAL.dll
+E:\Project\DAMH_FINAL\CuaHangThucAnNhanh\clb_GUI\bin\Debug\clb_GUI.dll
+E:\Project\DAMH_FINAL\CuaHangThucAnNhanh\clb_GUI\bin\Debug\clb_GUI.pdb
+E:\Project\DAMH_FINAL\CuaHangThucAnNhanh\clb_GUI\bin\Debug\BLL_DAL.dll
+E:\Project\DAMH_FINAL\CuaHangThucAnNhanh\clb_GUI\bin\Debug\Guna.UI.dll
+E:\Project\DAMH_FINAL\CuaHangThucAnNhanh\clb_GUI\bin\Debug\BLL_DAL.pdb
+E:\Project\DAMH_FINAL\CuaHangThucAnNhanh\clb_GUI\bin\Debug\BLL_DAL.dll.config
+E:\Project\DAMH_FINAL\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.csprojAssemblyReference.cache
+E:\Project\DAMH_FINAL\CuaHangThucAnNhanh\clb_GUI\obj\Debug\GUI.frmSanPham.resources
+E:\Project\DAMH_FINAL\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.Properties.Resources.resources
+E:\Project\DAMH_FINAL\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.usChiTietHD.resources
+E:\Project\DAMH_FINAL\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.usSanPham.resources
+E:\Project\DAMH_FINAL\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.usSanPham_1.resources
+E:\Project\DAMH_FINAL\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.usThemKhachHang.resources
+E:\Project\DAMH_FINAL\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.csproj.GenerateResource.cache
+E:\Project\DAMH_FINAL\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.csproj.CoreCompileInputs.cache
+E:\Project\DAMH_FINAL\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.csproj.CopyComplete
+E:\Project\DAMH_FINAL\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.dll
+E:\Project\DAMH_FINAL\CuaHangThucAnNhanh\clb_GUI\obj\Debug\clb_GUI.pdb
